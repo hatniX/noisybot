@@ -60,7 +60,7 @@ while True:
                             hnbBCMD = hnbALIN.split(":")
                             hnbBLEN = len(hnbBCMD[0]) + 1
 
-                            if hnbMESS[:hnbBLEN] == hnbCHAR + hnbBCMD[0]:
+                            if hnbMESS[:hnbBLEN].lower() == hnbCHAR + hnbBCMD[0]:
                                 print(hnbUSER + ": " + hnbMESS)
                                 if hnbBCMD[1]:
                                     hnbBCMD[1] = hnbBCMD[1].replace("{sender}", hnbUSER)
