@@ -1,0 +1,8 @@
+hello:Hello {sender}! How are you?:door_bell:
+bye:Good bye {sender}! Thanks for stopping by.:door_bump:
+lurk:{sender} is lurking now. See you later! NomNom:beer_can_opening:
+unlurk:Welcome back, {sender}! BloodTrail:tutturuu:
+save::wilhelmscream:
+gg::applause:
+fail:FailFish:whaawhaa:
+pun:Puntasic!:badumtiss:
